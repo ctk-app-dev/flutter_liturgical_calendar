@@ -3,7 +3,7 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'dart:io';
 
-import 'package:flutter_liturgical_calendar/liturgical_calendar.dart';
+import 'package:flutter_liturgical_calendar/flutter_liturgical_calendar.dart';
 
 class LiturgicalTestCase {
   final String description;
