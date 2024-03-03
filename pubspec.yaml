@@ -1,11 +1,11 @@
 name: flutter_liturgical_calendar
 description: "A package for calculating the liturgical day given a range of DateTime inputs"
 version: 0.0.1
-homepage:
+repository: https://github.com/ctk-app-dev/flutter_liturgical_calendar
 
 environment:
-  sdk: '>=3.3.0-279.2.beta <4.0.0'
-  flutter: ">=1.17.0"
+  sdk: '>=3.3.0'
+  flutter: ">=3.19.2"
 
 dependencies:
   flutter:
